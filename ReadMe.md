@@ -1,11 +1,11 @@
 # Process Notes
 To cluster sequences from a multiple sequence alignment (MSA) based on amino acids representing the binding sites, you can follow these steps:
 
-## 1. Identify Binding Sites:
+## 1. Identify Binding Sites (Done):
 Manually: If you know the binding sites, you can manually extract the corresponding columns from the MSA.
 Automatic Detection: If the binding sites are not known, you might use tools like consurf or sites identification tools to predict potential binding sites.
 
-## 2. Extract Binding Site Columns from MSA:
+## 2. Extract Binding Site Columns from MSA (Done):
 Once the binding sites are identified, extract the columns corresponding to these positions from your MSA file.
 This can be done using scripts (in Python, R, etc.) or using MSA tools like Jalview, BioEdit, or custom scripts.
 
