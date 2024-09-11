@@ -14,7 +14,10 @@ An overview of k-means and hierarchical clustering in layman's terms.
 ## Hierarchical Clustering
 There are two types of hierarchical clustering:
 * *Agglomerative:* each object starts as its own cluster, and clusters are merged until a single cluster remains
+
 * *Divisive:* all objects start in the same cluster, and clusters are divided until each point has a unique cluster.
+
+We will focus on *agglomerative* clustering for the analysis.
 
 **Agglomerative clustering steps:**
 1. Compute the proximity/dissimilarity/distance matrix with a chosen distance metric
@@ -26,9 +29,3 @@ There are two types of hierarchical clustering:
         3. Centroid Linkage - finds the distance between cluster centroids
         4. Average Linkage - finds the average distance of all  points in clusters, compared pairwise
 4. Repeat Step 3 until one cluster exists.
-
-**Divisive clustering steps:**
-1. Compute the proximity/dissimilarity/distance matrix with a chosen distance metric
-2. Create a single cluster with all points
-3. Divide clusters based on similarity metric
-4. Repeat Step 3 until each point has its own cluster.
