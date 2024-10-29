@@ -1,5 +1,6 @@
 # Experimental Notes
 What is the end goal of this study?
+
 0. The enzymes we're studying are expressed in different microbes in the soil. They're important because we can measure the amount of gas they produce from catalyzing chloride and bromide. 
 1. Generate enzymes that are specific to chloride and bromide
     * **Clustering approach:** take enzymes (MHTs) that already exist and explore representatives of different clusters to see if there's anything close to what we want.
