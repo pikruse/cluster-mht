@@ -1,0 +1,6 @@
+Feature: disorder
+Range of values: 0.007 - 0.107
+Standard Deviation: 0.008
+Mean: 0.033
+Mode: 0.035, Count: 3
+

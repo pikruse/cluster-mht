@@ -1,0 +1,6 @@
+Feature: globalChemSoft
+Range of values: 0.121 - 0.289
+Standard Deviation: 0.015
+Mean: 0.24
+Mode: 0.247, Count: 7
+

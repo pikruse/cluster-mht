@@ -1,0 +1,6 @@
+Feature: globalPolarizability
+Range of values: 0.188 - 0.414
+Standard Deviation: 0.028
+Mean: 0.371
+Mode: 0.364, Count: 16
+

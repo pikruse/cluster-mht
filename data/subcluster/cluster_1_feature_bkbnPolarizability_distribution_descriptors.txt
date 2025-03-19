@@ -1,0 +1,6 @@
+Feature: bkbnPolarizability
+Range of values: 0.39 - 0.616
+Standard Deviation: 0.013
+Mean: 0.585
+Mode: 0.595, Count: 68
+

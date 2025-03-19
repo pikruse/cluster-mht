@@ -1,0 +1,6 @@
+Feature: hydrophobicity
+Range of values: 0.733 - 1.3
+Standard Deviation: 0.058
+Mean: 1.106
+Mode: 1.083, Count: 123
+

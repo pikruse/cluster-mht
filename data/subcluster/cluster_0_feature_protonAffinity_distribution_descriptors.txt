@@ -1,0 +1,6 @@
+Feature: protonAffinity
+Range of values: 0.103 - 0.355
+Standard Deviation: 0.019
+Mean: 0.266
+Mode: 0.254, Count: 23
+

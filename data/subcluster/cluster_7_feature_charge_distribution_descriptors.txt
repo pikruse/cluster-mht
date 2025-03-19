@@ -1,0 +1,6 @@
+Feature: charge
+Range of values: -0.15 - 0.1
+Standard Deviation: 0.046
+Mean: -0.039
+Mode: -0.033, Count: 152
+

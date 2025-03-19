@@ -1,0 +1,6 @@
+Feature: sdcnChemSoft
+Range of values: 0.297 - 0.44
+Standard Deviation: 0.012
+Mean: 0.374
+Mode: 0.355, Count: 125
+

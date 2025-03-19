@@ -1,0 +1,6 @@
+Feature: hydrogen
+Range of values: 0.05 - 0.425
+Standard Deviation: 0.037
+Mean: 0.319
+Mode: 0.3, Count: 382
+
